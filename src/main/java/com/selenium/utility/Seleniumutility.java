@@ -3,7 +3,7 @@ package com.selenium.utility;
 public class Seleniumutility {
 
 	public static void testUtil() {
-	System.out.println("i am from util class");
+	System.out.println("iam from util class");
 	
 	}
 
